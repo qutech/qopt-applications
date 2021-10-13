@@ -5,6 +5,14 @@ simulation and optimal control.
 If you have any questions, comments or recommendations, please reach out to me
 via mail at j.teske@fz-juelich.de or julian.teske@rwth-aachen.de.
 
+## Documentation
+The documentation of qopt can be found on 
+[readthedocs](https://qopt.readthedocs.io/en/latest/index.html). 
+It features an API documentation and an introduction in the 
+form of jupyter notebooks demonstrating how to utilize the package. A 
+complementary theoretical introduction is given in the
+[qopt paper](https://arxiv.org/abs/2110.05873).
+
 ## Purpose
 Publishing the sourcecode of your research has multiple benefits to you and the
 scientific community as whole. You can increase the visibility of your 
@@ -57,3 +65,9 @@ work. It should contain another README file explaining the structure, contend
 and interdependence of the remaining files. It is sufficient to write short 
 document strings in these files, which describe the code roughly, but you are 
 welcome to put more effort into the documentation if you deem it useful.
+
+## Citing
+
+If you are using qopt for your work then please cite the 
+[qopt paper](https://arxiv.org/abs/2110.05873), as the funding of the 
+development depends on the public impact.
