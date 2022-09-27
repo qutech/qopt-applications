@@ -1,6 +1,8 @@
 
 # Cryo-Electronics
 
+This package was written with qopt 1.3.5.
+
 In this project, I present algorithms for discrete pulse optimization. The 
 goal of this Project was to determine the required pulse resolution for 
 noise resilient EDSR pulses applied to Loss-DiVincenzo qubits.
