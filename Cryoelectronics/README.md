@@ -16,3 +16,5 @@ can be found in the file cryoel_util.py.
 
 The execution notebook start the parallelized optimization of control pulses
 and the analysis notebook processes and plots the results.
+
+The pulse_plot notebook plots an example pulse for visualization.
